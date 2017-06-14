@@ -1,4 +1,4 @@
-# Leapmotion-servo 
+# Leapmotion-Servo 
 
 To use leap-motion to control Servo in an X-axis
 
